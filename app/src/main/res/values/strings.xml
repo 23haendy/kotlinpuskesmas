@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Puskita</string>
+    <string name="puskita1">Puskesmas Jakarta Timur</string>
+    <string name="puskita2">Puskesmas Jakarta Utara</string>
+    <string name="puskita3">Puskesmas Jakarta Selatan</string>
+    <string name="puskita4">Puskesmas Jakarta Barat</string>
+    <string name="puskita5">Puskesmas Jakarta Pusat</string>
+
+</resources>
